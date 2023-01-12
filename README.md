@@ -1,4 +1,4 @@
-# CHATBOT-encoder-decoder
+# CHATBOT encoder-decoder
 
 In this project, I implemented a chatbot using the encoder-decoder algorithm as part of my exploration into the field of deep learning. 
 The encoder-decoder architecture has gained widespread attention in the field of natural language processing for tasks such as machine translation and text summarization. 
